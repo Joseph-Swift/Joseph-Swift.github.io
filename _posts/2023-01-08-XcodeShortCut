@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Swfit ShortCuts"
+categories: Swift
+tag: [iOS, SwiftUI]
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+author_prifile: true
+sidebar:
+    nav: "docs"
+---
+
+# Commenting
+Command + /
+
+/* This is a multople
+ line comment*/
+ 
