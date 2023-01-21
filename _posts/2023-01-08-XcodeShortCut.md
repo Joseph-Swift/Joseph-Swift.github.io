@@ -14,7 +14,7 @@ sidebar:
 # Commenting
 Command + /
 
-/* This is a multople
+/* This is a multiple
  line comment*/
  
 
