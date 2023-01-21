@@ -16,9 +16,13 @@ Command + /
 
 /* This is a multiple
  line comment*/
- 
+ <br/>
+ <br/>
 
 WHO           .WHAT    VALUE
+<br/>
 diceImageView1.image = #imageLiteral(resourceName: "DiceSix")
+<br/>
 diceImageView1.alpha = 0.5
+<br/>
 diceImageView2.image = #imageLiteral(resourceName: "DiceTwo")
